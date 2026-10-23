@@ -36,3 +36,6 @@ datasets/
 # OS files
 .DS_Store
 Thumbs.db
+
+# research paper
+.research papers
